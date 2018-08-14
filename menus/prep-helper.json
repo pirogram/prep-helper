@@ -1,0 +1,50 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "UUID",
+        "command": "prep-helper:uuid"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Prep Helper",
+          "submenu": [
+            {
+              "label": "UUID",
+              "command": "prep-helper:uuid"
+            },
+            {
+              "label": "Live Code",
+              "command": "prep-helper:liveCode"
+            },
+            {
+              "label": "Multiple Choice",
+              "command": "prep-helper:multipleChoiceQuestion"
+            },
+            {
+              "label": "Coding",
+              "command": "prep-helper:codingQuestion"
+            },
+            {
+              "label": "Testless Coding",
+              "command": "prep-helper:testlessCodingQuestion"
+            },
+            {
+              "label": "Fill In The Blanks",
+              "command": "prep-helper:fillInTheBlankQuestion"
+            },
+            {
+              "label": "Categorization",
+              "command": "prep-helper:categorizationQuestion"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

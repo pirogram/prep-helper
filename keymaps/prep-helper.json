@@ -1,0 +1,11 @@
+{
+  "atom-workspace": {
+    "ctrl-alt-u": "prep-helper:uuid",
+    "ctrl-alt-l": "prep-helper:liveCode",
+    "ctrl-alt-m": "prep-helper:multipleChoiceQuestion",
+    "ctrl-alt-c": "prep-helper:codingQuestion",
+    "ctrl-alt-t": "prep-helper:testlessCodingQuestion",
+    "ctrl-alt-i": "prep-helper:fillInTheBlankQuestion",
+    "ctrl-alt-g": "prep-helper:categorizationQuestion"
+  }
+}
